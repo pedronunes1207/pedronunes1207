@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 
 <p>
 <!-- Blockchain -->
-<img src="https://img.shields.io/badge/Blockchain-ffc8dd?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Blockchain-dee2ff?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 <!-- Ethereum -->
 <img src="https://img.shields.io/badge/Ethereum-a2d2ff?style=for-the-badge&logo=ethereum&logoColor=white" />
