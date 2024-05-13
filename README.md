@@ -25,13 +25,13 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 <img src="https://img.shields.io/badge/Bot-4FC08D?style=for-the-badge&logo=bot&logoColor=white" />
 
 <!-- Telegram Bot -->
-<img src="https://img.shields.io/badge/Telegram%20Bot-4FC08D?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram%20Bot-3a86ff?style=for-the-badge&logo=telegram&logoColor=white" />
 
 <!-- Discord Bot -->
-<img src="https://img.shields.io/badge/Discord%20Bot-4FC0FF?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord%20Bot-7209b7?style=for-the-badge&logo=discord&logoColor=white" />
 
 <!-- Whatsapp Bot -->
-<img src="https://img.shields.io/badge/Whatsapp%20Bot-4FFF8D?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Whatsapp%20Bot-99d98c?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <!-- AI -->
 <img src="https://img.shields.io/badge/AI-4FC08D?style=for-the-badge&logo=ai&logoColor=white" />
