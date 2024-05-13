@@ -4,22 +4,22 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 
 <p>
 <!-- Blockchain -->
-<img src="https://img.shields.io/badge/Blockchain-4FC08D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Blockchain-ffc8dd?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 <!-- Ethereum -->
-<img src="https://img.shields.io/badge/Ethereum-4FA04D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-a2d2ff?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 <!-- Solana -->
-<img src="https://img.shields.io/badge/Solana-40C08D?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-ffafcc?style=for-the-badge&logo=solana&logoColor=white" />
 
 <!-- Solidity -->
 <img src="https://img.shields.io/badge/Solidity-4FC00D?style=for-the-badge&logo=solidity&logoColor=white" />
 
 <!-- Rust -->
-<img src="https://img.shields.io/badge/Rust-4FC047?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-d62828?style=for-the-badge&logo=rust&logoColor=white" />
 
 <!-- Web3.js -->
-<img src="https://img.shields.io/badge/Web3.js-485928?style=for-the-badge&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-90e0ef?style=for-the-badge&logo=web3.js&logoColor=white" />
 
 <!-- Bot -->
 <img src="https://img.shields.io/badge/Bot-4FC08D?style=for-the-badge&logo=bot&logoColor=white" />
