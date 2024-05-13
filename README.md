@@ -58,7 +58,7 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
 <img src="https://img.shields.io/badge/MongoDB-4FC08D?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-4FC08D?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-ea7317?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <!-- PostgreSQL -->
 <img src="https://img.shields.io/badge/PostgreSQL-4FC08D?style=for-the-badge&logo=postgresql&logoColor=white" />
