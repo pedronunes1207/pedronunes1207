@@ -153,21 +153,21 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
             <img src="https://pedroportfolio.vercel.app/projects/shiba.png" alt="Shiba Memu">
         </a>
     </div>
-    <div style="flex: 1; max-width: 45%;">
+    <div style="flex: 2; max-width: 45%;">
         <a href="https://stake.arbinucoin.com/" target="_blank">
             <h3>Arbinu Coin Staking Platform</h3>
             <p>Where DeFi meets whimsy! Seamlessly bridge blockchains, explore projects, stake assets for passive income, and farm for rewards. Laugh, earn, and play in the crypto cosmos! 🐾</p>
             <img src="https://pedroportfolio.vercel.app/projects/arbinu.png" alt="Arbinu Coin">
         </a>
     </div>
-    <div style="flex: 1; max-width: 45%;">
+    <div style="flex: 3; max-width: 45%;">
         <a href="https://token.altsignals.io/" target="_blank">
             <h3>AltSignals Token</h3>
             <p>AltSignals is set to soar with AI, ML, NLP, and sentiment analysis. 🚀 Traders benefit from automated, 24/7 trading and advanced analysis support.</p>
             <img src="https://pedroportfolio.vercel.app/projects/altsignal.png" alt="AltSignals Token">
         </a>
     </div>
-    <div style="flex: 1; max-width: 45%;">
+    <div style="flex: 4; max-width: 45%;">
         <a href="https://growprotocol.net/" target="_blank">
             <h3>Grow Protocol</h3>
             <p>Grow Protocol will provide the first real passive income in the industry. Stake USDT, Earn USDT, 25% APY, no lies. Start earning today with Grow.</p>
