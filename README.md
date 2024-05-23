@@ -176,15 +176,13 @@ Welcome to my GitHub profile. I'm a blockchain and bot expert passionate about l
     </div>
 </div>
 
-# 👨‍💼 Achievements
-
 ## Experience
 
 - 💼 Over 5 years of experience as a Blockchain and Bot Expert, specializing in Ethereum, Solana, and bot development.
 - 🚀 Successfully developed and deployed multiple blockchain projects, including decentralized applications (DApps), smart contracts, and blockchain-based solutions.
 - 🤖 Extensive expertise in bot development, creating chatbots, automation tools, and integrations with popular messaging platforms.
 
-## Projects
+## Development
 
 - 🌐 Developed and maintained several blockchain projects, contributing to the growth and innovation of the blockchain ecosystem.
 - 🤖 Created robust and scalable bots for various applications, enhancing user engagement and streamlining processes in different industries.
